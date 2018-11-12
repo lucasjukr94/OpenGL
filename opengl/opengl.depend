@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1541765413 source:c:\users\ljeon\desktop\opengl\main.cpp
+	<iostream>
+	<windows.h>
+	<GL/freeglut.h>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1541782299 source:c:\users\ljeon\desktop\testfrac\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<GL/freeglut.h>
+	<GL/gl.h>
+
